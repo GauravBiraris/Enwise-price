@@ -1,0 +1,8 @@
+streamlit 
+pandas 
+streamlit_option_menu 
+os
+datetime
+csv
+re
+numpy
